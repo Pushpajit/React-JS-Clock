@@ -43,7 +43,7 @@ header{
 
 .dial{
   /* border: 2px solid rebeccapurple; */
-  transform: translate(23%, 40%);
+  transform: translate(23%, 30%);
   width: 70%;
   height: 50%;
   display: flex;
@@ -62,4 +62,12 @@ header{
 
 .dial h3{
   font-size: 25px;
+}
+
+.dial p{
+  font-size: 14px;
+  font-weight: 600;
+  color: #2F90FE;
+  color: orange;
+  color: red;
 }
